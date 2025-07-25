@@ -1,0 +1,31 @@
+{
+    "item": {
+        "name": "【部分付费】派对游戏合集",
+        "description": "五合一版本，包含谁是卧底，真心话大冒险，海龟汤，狼人杀，你会按下按钮吗",
+        "preview": ["preview.png", "preview2.png", "preview3.png", "preview4.png", "preview5.png", "preview6.png"],
+        "icon": "icon.png",
+        "source_url": "",
+        "author": [{
+            "name": "Demon0H",
+            "author_url": "https://github.com/Demon0H/"
+        }]
+    },
+    "downloads": {
+        "n66": {
+            "version": "1.4.2",
+            "file_name": "partygame1.4.2.rpk"
+        },
+        "n67": {
+            "version": "1.4.2",
+            "file_name": "partygame1.4.2.rpk"
+        },
+        "o66": {
+            "version": "1.4.2",
+            "file_name": "partygame1.4.2.rpk"
+        },
+        "o66nfc": {
+            "version": "1.4.2",
+            "file_name": "partygame1.4.2.rpk"
+        }
+    }
+}

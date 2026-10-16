@@ -1,7 +1,7 @@
 {
     "item": {
         "name": "【部分付费】派对游戏合集",
-	"description": "九合一版本，内含:谁是卧底，海龟汤，真心话大冒险，你会按下按钮吗，狼人杀，辅助功能，脑筋急转弯，你宁愿，代价交易。请先下载应用后购买,打包为2.97r",
+	"description": "2.0.0 九合一版本，内含：谁是卧底、海龟汤、真心话大冒险、你会按下按钮吗、狼人杀、辅助功能、脑筋急转弯、你宁愿、代价交易。支持手机词库互联，普通版与 Pro 屏幕自动适配。部分游戏需激活，请先下载应用后购买，打包为2.97r。",
         "preview": ["preview.png","preview1.png", "preview2.png", "preview3.png", "preview4.png", "preview5.png", "preview6.png"],
         "icon": "icon.png",
         "source_url": "",
@@ -12,20 +12,20 @@
     },
     "downloads": {
         "n66": {
-            "version": "1.6.1",
-            "file_name": "partygame9-10.release.1.6.1.rpk"
+            "version": "2.0.0",
+            "file_name": "site.demonh.party.release.2.0.0.rpk"
         },
         "n67": {
-            "version": "1.6.1",
-            "file_name": "partygame9p-8p-rw4-rw5-rw6.1.6.1.rpk"
+            "version": "2.0.0",
+            "file_name": "site.demonh.party.release.2.0.0.rpk"
         },
         "o66": {
-            "version": "1.6.1",
-            "file_name": "partygame9-10.release.1.6.1.rpk"
+            "version": "2.0.0",
+            "file_name": "site.demonh.party.release.2.0.0.rpk"
         },
         "o66nfc": {
-            "version": "1.6.1",
-            "file_name": "partygame9-10.release.1.6.1.rpk"
+            "version": "2.0.0",
+            "file_name": "site.demonh.party.release.2.0.0.rpk"
         }
     }
 }
